@@ -3,3 +3,5 @@
 /workspace.xml
 # CodeStream ignored files
 /../../100_days_Python\.idea/codestream.xml
+../idea/*.*
+.idea/
