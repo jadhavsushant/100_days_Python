@@ -1,0 +1,7 @@
+Hello, My name is Sushant!
+I am cool guy.
+am I Happy?
+
+# Todays Update:
+- working on the txt file and update the core this in API's.
+- Writing from python console

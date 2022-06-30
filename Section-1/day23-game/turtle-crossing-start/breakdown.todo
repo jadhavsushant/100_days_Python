@@ -1,0 +1,12 @@
+# TODO: Break down the game in parts
+   # Player
+        # create a plyer
+        # define the position
+        # create the function for move up.
+        # call the function and player should move up.
+   # Cars
+        # Create a cars.
+        # set the position for cars.
+        # Start moves the cars from right to left.
+
+   # collision

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../day19-start/.idea/day19-start.iml" filepath="$PROJECT_DIR$/../day19-start/.idea/day19-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/day20-snake_game-1.iml" filepath="$PROJECT_DIR$/.idea/day20-snake_game-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../develop/pmck_analytics_labs-azure_lab_infra-master/.idea/pmck_analytics_labs-azure_lab_infra-master.iml" filepath="$PROJECT_DIR$/../../../../../../develop/pmck_analytics_labs-azure_lab_infra-master/.idea/pmck_analytics_labs-azure_lab_infra-master.iml" />
+    </modules>
+  </component>
+</project>
