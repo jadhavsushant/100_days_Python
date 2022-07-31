@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75b3ac98-6bf9-4bc6-a99c-2366468dcd21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day 27 - keyward arguments/dict_comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - keyward arguments/function_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - keyward arguments/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - keyward arguments/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - keyward arguments/scratch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/play_book_notes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/runConfigurations.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BR7WSjU8OMZMNPt04SjAmZtP3s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/SushantJadhav/Documents/development/Python-100-Days-Boot_Camp/Web Development"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b3ac98-6bf9-4bc6-a99c-2366468dcd21" name="Changes" comment="" />
+      <created>1656857074618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656857074618</updated>
+    </task>
+    <servers />
+  </component>
+</project>
